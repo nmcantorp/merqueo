@@ -1,0 +1,1 @@
+Analizar posibles soluciones para desarrollar una app/Web para el control de perfiles de modelos 

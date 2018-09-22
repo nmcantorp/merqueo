@@ -1,0 +1,4 @@
+WW Analizar posibles soluciones para desarrollar una app/Web para el control de perfiles de modelos WW
+Prueba de Mayusculas 
+linea 3 sin mayusculas 
+linea 4 con Mayuscula Nuevamente
